@@ -13,7 +13,7 @@ mongoose.connect(process.env.MONGO).then(()=>{
 }).catch((err)=>{
     console.log(err)
 })
-const __dirname=dir.resolve();
+const __dirname=path.resolve();
 
 const app = express()
 app.use(express.json());
