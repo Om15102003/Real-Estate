@@ -36,16 +36,9 @@ A full-stack real estate marketplace application where users can browse, create,
 - **JWT**: Authentication
 - **Cookie Parser**: Handle cookies
 
-## 📸 Screenshots
 
-### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
 
-### Property Listing
-![Property Listing](https://via.placeholder.com/800x400?text=Property+Listing)
 
-### Search Page
-![Search Page](https://via.placeholder.com/800x400?text=Search+Page)
 
 ## 🚀 Getting Started
 
@@ -111,9 +104,9 @@ This project is licensed under the ISC License.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/Om15102003)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/om-gupta-1510o2003)
+**Om Gupta**
+- GitHub: [github](https://github.com/Om15102003)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/om-gupta-1510o2003)
 
 ---
 
